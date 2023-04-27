@@ -12,14 +12,11 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
         glue = "stepsDefinitions",
         dryRun = false,
-        tags = "@AutomacaoLupa",
+        tags = "@DesafioAgibank",
         snippets = CucumberOptions.SnippetType.CAMELCASE,
         monochrome = false,
         plugin = {
-                "pretty",
-                "json:target/cucumber-results/cucumber.json",
-                "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm",
-                "html:target/cucumber-report"
+                "pretty", "html:target/cucumber-report/report.html"
         }
 )
 public class RunnerTest {

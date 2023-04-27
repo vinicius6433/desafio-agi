@@ -3,6 +3,7 @@
 
 @DesafioAgibank
 @AutomacaoLupa
+
 Funcionalidade: Automacao Lupa
   Contexto:
     Dado que estou na url "https://blogdoagi.com.br/"
