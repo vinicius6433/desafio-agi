@@ -33,6 +33,8 @@ os cenários preenchidos na questão anterior foram:
     Case 9: verificar se o evento -> 'keyboard focusable' é acionavel e limpa o texto digitado
     case 10: verifica se os valores retornados correspondem a pesquisa realizada pelo botão "PESQUISAR"
  ##
+ Evidências de cenários automatizados: https://drive.google.com/file/d/138GYHW4hGq9aAj8W8G3QTi6frR99FNH0/view?usp=sharing
+ ##
  Com base nos casos de teste levantados os 2 cenários escolhidos foram: 
  Case 1: Verificar a disparada de eventos ao clicar na lupa
  Case 7: Verificar se o evento da lupa cujo nomeei como "BARRA FIXA" pesquisa corretamente, passei os valores utilizados no preenchimento do caso.
