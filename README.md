@@ -38,6 +38,7 @@ os cenários preenchidos na questão anterior foram:
  Case 7: Verificar se o evento da lupa cujo nomeei como "BARRA FIXA" pesquisa corretamente, passei os valores utilizados no preenchimento do caso.
  
  Como os demais testes podem ser facilmente executados manualmente, somente cenários que geram bugs na aba de pesquisa e relevantes foram escolhidos
+ 
   ##
 
 <div style="display: inline_block">
@@ -55,10 +56,12 @@ os cenários preenchidos na questão anterior foram:
       <img width="50" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> </a>
   </p>
 </div>
+
+
   ##   
  
  
-<- 👯 Minhas estatisticas no github são:
+- 👯 Minhas estatisticas no github são:
 
 <div>
   <a href="https://github.com/vinicius6433">
