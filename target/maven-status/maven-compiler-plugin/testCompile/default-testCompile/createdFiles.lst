@@ -1,0 +1,10 @@
+stepsDefinitions\Hooks.class
+utils\GerarMassaDeDados.class
+utils\Utils.class
+PageObjects\lupaPage.class
+utils\log4j.class
+stepsDefinitions\lupaSteps.class
+utils\AllureReport\AllureReportConfigurationSetup.class
+utils\logs\log4j.class
+runners\RunnerTest.class
+utils\AllureReport\Log.class
