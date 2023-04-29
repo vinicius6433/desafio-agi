@@ -1,5 +1,7 @@
 <h1 align="center"> Desafio BLOG DO AGI :D </h1>
 
+- 👯 Para executar o código é necessário ter o chrome driver no local "C:\\chromedriver.exe" e java 11, de resto é só executar e ser feliz.
+
 - 🔭 Este é um projeto do desafio do AGIBANK
 
 - 🌱 É um projeto de testes **funcionais** com algumas **validações** bem bacanas, desde validações de URL até validações de classes e de mudança de estado.
